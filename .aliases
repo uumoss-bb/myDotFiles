@@ -1,0 +1,25 @@
+# FILES
+alias openzsh="code ~/.zshrc"
+alias web="~/Documents/websites"
+alias viv="~/Documents/websites/VIVED"
+alias startweb="code ~/Documents/websites/VIVED/vived_science_webgl/ScienceWebGL_TS && ~/Documents/websites/VIVED/vived_science_webgl/ScienceWebGL_TS &&  export SASS_PATH=./node_modules"
+alias startweb2="code ~/Documents/websites/VIVED/vived_player_2 && ~/Documents/websites/VIVED/vived_player_2"
+alias startvivapi="code ~/Documents/websites/VIVED/vived-api && ~/Documents/websites/VIVED/vived-api && export AWS_REGION=us-east-1"
+alias startcolfro="code ~/Documents/websites/VIVED/collection-publishing && ~/Documents/websites/VIVED/collection-publishing"
+alias startouzel="code ~/Documents/websites/VIVED/ouzel_frontend && ~/Documents/websites/VIVED/ouzel_frontend"
+alias startpublisher="code ~/Documents/websites/VIVED/app_publisher && ~/Documents/websites/VIVED/app_publisher"
+
+alias redisstart="redis-server /usr/local/etc/redis.conf"
+
+alias gitVivSetUp='git config user.name "Brodie Balser" && git config user.email brodie.balser@vivedlearning.com'
+
+# NPM
+alias nr="npm run"
+
+# GITHUB
+alias gcd="git checkout develop"
+alias gcs="git checkout staging"
+alias gcm="git checkout master"
+alias gpd="git pull origin develop"
+alias gps="git pull origin staging"
+alias gpm="git pull origin master"

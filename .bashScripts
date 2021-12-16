@@ -1,0 +1,12 @@
+# AUTOMATGIT ================================================================
+# --------------------------
+ag(){
+  git add -A;
+    if [[ -z "$*"  ]]; then
+      git commit -m "Brodie is commiting something on git";
+    else
+      git commit -m "$*";
+    fi
+      git push;
+}
+# ------------------ END AUTOMATGIT --------------------------
