@@ -1,15 +1,13 @@
 # FILES
 alias openzsh="code ~/.zshrc"
-alias web="~/Documents/websites"
-alias viv="~/Documents/websites/VIVED"
-alias startweb="code ~/Documents/websites/VIVED/vived_science_webgl/ScienceWebGL_TS && ~/Documents/websites/VIVED/vived_science_webgl/ScienceWebGL_TS &&  export SASS_PATH=./node_modules"
-alias startweb2="code ~/Documents/websites/VIVED/vived_player_2 && ~/Documents/websites/VIVED/vived_player_2"
-alias startvivapi="code ~/Documents/websites/VIVED/vived-api && ~/Documents/websites/VIVED/vived-api && export AWS_REGION=us-east-1"
-alias startcolfro="code ~/Documents/websites/VIVED/collection-publishing && ~/Documents/websites/VIVED/collection-publishing"
-alias startouzel="code ~/Documents/websites/VIVED/ouzel_frontend && ~/Documents/websites/VIVED/ouzel_frontend"
-alias startpublisher="code ~/Documents/websites/VIVED/app_publisher && ~/Documents/websites/VIVED/app_publisher"
-
-alias redisstart="redis-server /usr/local/etc/redis.conf"
+alias londelo="~/Documents/londelo"
+alias viv="~/Documents/londelo/VIVED"
+alias startweb="code ~/Documents/londelo/VIVED/vived_science_webgl/ScienceWebGL_TS && ~/Documents/londelo/VIVED/vived_science_webgl/ScienceWebGL_TS &&  export SASS_PATH=./node_modules"
+alias startweb2="code ~/Documents/londelo/VIVED/vived_player_2 && ~/Documents/londelo/VIVED/vived_player_2"
+alias startvivapi="code ~/Documents/londelo/VIVED/vived-api && ~/Documents/londelo/VIVED/vived-api && export AWS_REGION=us-east-1"
+alias startcolfro="code ~/Documents/londelo/VIVED/collection-publishing && ~/Documents/londelo/VIVED/collection-publishing"
+alias startouzel="code ~/Documents/londelo/VIVED/ouzel_frontend && ~/Documents/londelo/VIVED/ouzel_frontend"
+alias startpublisher="code ~/Documents/londelo/VIVED/app_publisher && ~/Documents/londelo/VIVED/app_publisher"
 
 alias gitVivSetUp='git config user.name "Brodie Balser" && git config user.email brodie.balser@vivedlearning.com'
 
