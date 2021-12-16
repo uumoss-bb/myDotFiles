@@ -18,7 +18,8 @@ brew cask install visual-studio-code
 brew cask install spotify
 brew cask install discord
 brew cask install skype
-spectacle
-slack
-unity
-zoom
+brew cask install spectacle
+brew cask install slack
+brew cask install unity
+brew cask install zoom
+
