@@ -22,4 +22,5 @@ brew cask install spectacle
 brew cask install slack
 brew cask install unity
 brew cask install zoom
+brew cask install dropbox
 
