@@ -18,8 +18,7 @@ brew cask install visual-studio-code
 brew cask install spotify
 brew cask install discord
 brew cask install skype
-brew cask install gimp
-brew cask install vlc
-brew cask install hyperdock
-brew cask install divvy
-
+spectacle
+slack
+unity
+zoom

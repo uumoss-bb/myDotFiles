@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 cd ~/Documents/londelo
 mkdir VIVED
 cd VIVED

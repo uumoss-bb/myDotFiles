@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 cd ~/Documents
 mkdir londelo
 cd londelo

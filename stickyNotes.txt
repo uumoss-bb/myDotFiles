@@ -1,0 +1,40 @@
+~ export SASS_PATH=./node_modules
+~ export AWS_REGION=us-east-1
+- GALE: u: cybertest p:test
+- TestUser+1: 1234Testing!
++555 — 6695a264-1f9a-40e4-9210-1087b9291342
+Viv — 0387aeca-cc9f-46ba-8a16-25e510b1a43b
+
+
+tom@vivedlearning.com
+amos.patrick@vivedlearning.com
+jordan.kintzle@vivedlearning.com
+brent.rochambeau@vivedlearning.com
+
+
+
+“The truth is like a lion. You don't have to defend it. Let it loose. It will defend itself.”
+
+― Saint Augustine
+
+
+
+KINGS DUTIES:
+
+- Pray
+- Study Scripture
+- Reflect and Worry not
+- Serve and Grow your Family
+- Train to Defend your Family
+- Try and give all your Love away
+
+
+
+
+DAILY SCHEDULE: 
+
+- The day starts at 6:30
+- The day ends when I have:
+	- 6 pomos for Vived
+	- 10 pomos as Londelo
+	- Iv completed my KINGLY DUTIES

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 npm install -g @aws-amplify/cli@3.17.0
 npm install -g @londelo/pomo_go@0.1.8
