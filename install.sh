@@ -36,3 +36,8 @@ curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-co
 ./brew.sh
 
 ./npm.sh
+
+./git.sh
+
+./git-viv.sh
+
