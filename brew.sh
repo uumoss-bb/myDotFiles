@@ -12,15 +12,15 @@ brew install readline
 brew install zsh
 
 # Install MacOS Applications
-brew cask install google-chrome
-brew cask install firefox
-brew cask install visual-studio-code
-brew cask install spotify
-brew cask install discord
-brew cask install skype
-brew cask install spectacle
-brew cask install slack
-brew cask install unity
-brew cask install zoom
-brew cask install dropbox
+brew install google-chrome --cask 
+brew install firefox --cask 
+brew install visual-studio-code --cask 
+brew install spotify --cask 
+brew install discord --cask 
+brew install skype --cask 
+brew install spectacle --cask 
+brew install slack --cask 
+brew install unity --cask 
+brew install zoom --cask 
+brew install dropbox --cask 
 
