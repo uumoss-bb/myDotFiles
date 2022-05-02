@@ -10,6 +10,8 @@ brew install openssl
 brew install python
 brew install readline
 brew install zsh
+# Install oh my zsh now
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
 
 # Install MacOS Applications
 brew install google-chrome --cask 
