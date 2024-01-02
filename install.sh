@@ -39,5 +39,5 @@ curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-co
 
 ./git.sh
 
-./git-viv.sh
+./git-work.sh
 

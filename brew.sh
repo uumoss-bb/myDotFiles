@@ -1,15 +1,17 @@
 #!/usr/bin/env bash
 
 # Install Brew Packages
+brew install node
+brew install nvm
+brew install zsh
 brew install awscli
 brew install git
 brew install httpie
-brew install node
-brew install nvm
 brew install openssl
 brew install python
 brew install readline
-brew install zsh
+brew install terraform
+
 # Install oh my zsh now
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
 
@@ -22,7 +24,8 @@ brew install discord --cask
 brew install skype --cask 
 brew install spectacle --cask 
 brew install slack --cask 
-brew install unity --cask 
 brew install zoom --cask 
-brew install dropbox --cask 
-
+brew install dropbox --cask
+brew install postman --cask
+brew install docker --cask
+brew install mongodb-compass --cask
